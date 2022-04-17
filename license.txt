@@ -1,0 +1,15 @@
+ILEGALTUBE MUSIC
+
+App Name: ILegalTube Music
+Version: 1.00.02
+Launch Date : 21 de Mayo del 2021
+Created by : Norman Agudelo
+FAQ: normanagudelo@gmail.com
+UpdateSoft Channel: https://ilegaltube.blogspot.com/2021/05/ilegaltube-music.html
+
+
+ILegalTube Music es un software de escritorio ejecutable en OS Windows, diseñado para descargar música y videos desde la plataforma de YouTube.
+Nació como una necesidad de adquirir audios y videos, ante la negación de navegadores como Google Chrome de integrar extensiones que permitan descargas multimedia.
+Aunque actualmente existen páginas que permiten descargar videos y audios a través de streams, estos no permanecen en el tiempo, debido a la persecución de Bot que los bloquea para evitar infracciones de derechos de autor.
+Compartir no es un delito, la violación de los derechos de autor se centra en obtener ganancias económicas sin el consentimiento del autor del material.
+Siguiendo este principio, el software ILegalTube Music también es gratuito y libre de distribución.
